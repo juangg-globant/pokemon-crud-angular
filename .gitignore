@@ -18,6 +18,9 @@
 /dist-packages
 /electron.main.js
 
+.angular
+.angular/*
+
 # IDEs and editors
 .idea/*
 !.idea/runConfigurations/
